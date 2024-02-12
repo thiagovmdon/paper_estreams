@@ -16,5 +16,7 @@ data/shapefiles/*.cpg
 data/shapefiles/*.qmd
 data/streamflow/estreams_timeseries_streamflow.csv
 data/hydrology/*.csv
+data/gauges_metadata/*.csv
+data/gauges_metadata/*.xlsx
 results/estreams_timeseries_streamflow.csv
 
