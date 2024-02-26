@@ -1,7 +1,6 @@
 Files: 
 
 - estreams_catchments.shp
-- europe.shp
 - lamah_boundaries.shp
 - mghydro_boundaries_AT00009.shp
 - riv_pfaf_2_MERIT_Hydro_v07_Basins_v01.shp. Available at: https://www.reachhydro.org/home/params/merit-basins (Last access: 23 November 2023)

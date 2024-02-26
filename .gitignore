@@ -18,5 +18,15 @@ data/streamflow/estreams_timeseries_streamflow.csv
 data/hydrology/*.csv
 data/gauges_metadata/*.csv
 data/gauges_metadata/*.xlsx
-results/estreams_timeseries_streamflow.csv
+results/*.dbf
+results/*.prj
+results/*.shp
+results/*.sbn
+results/*.sbx
+results/*.xml
+results/*.shx
+results/*.cpg
+results/*.qmd
+results/*.csv
+
 
