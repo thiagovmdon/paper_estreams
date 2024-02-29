@@ -1,5 +1,7 @@
 # Ignore all third party data
 .DS_Store
+__pycache__/
+.ipynb_checkpoints/
 code/geospatialfunctions.py
 data/eobs_stations/*0e.txt
 data/meteorology/estreams_meteorology_precipitation.csv
@@ -28,5 +30,6 @@ results/*.shx
 results/*.cpg
 results/*.qmd
 results/*.csv
+results/todelete/*
 
 
