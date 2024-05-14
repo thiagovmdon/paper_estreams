@@ -19,6 +19,7 @@ data/shapefiles/*.shx
 data/shapefiles/*.cpg
 data/shapefiles/*.qmd
 data/streamflow/estreams_timeseries_streamflow.csv
+data/streamflow/estreams_timeseries_streamflow_quality_mask.csv
 data/hydrology/*.csv
 data/gauges_metadata/*.csv
 data/gauges_metadata/*.xlsx
@@ -33,5 +34,5 @@ results/*.cpg
 results/*.qmd
 results/*.csv
 results/todelete/*
-
+code/old/*
 
